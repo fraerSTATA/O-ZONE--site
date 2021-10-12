@@ -1,0 +1,33 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"bdKap"},
+{"type":"table","name":"dbKap","database":"bdKap","data":
+[
+{"COL 1":"itle","COL 2":"price","COL 3":"sale","COL 4":"img","COL 5":"hoverImg","COL 6":"category"},
+{"COL 1":"Игровая приставка Sony PlayStation 4 Pro","COL 2":"33990","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1033180284.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1033180283.jpg","COL 6":"Игровая приставка"},
+{"COL 1":"Игровая приставка Sony PlayStation 3 Super Slim","COL 2":"16499","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1027495663.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1028469540.jpg","COL 6":"Игровая приставка"},
+{"COL 1":"Игровая приставка Xbox One X","COL 2":"39990","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1024358491.jpg","COL 5":"","COL 6":"Игровая приставка"},
+{"COL 1":"Игровая приставка Xbox One S","COL 2":"23411","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1024822131.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1024822128.jpg","COL 6":"Игровая приставка"},
+{"COL 1":"Игровая приставка Nintendo Switch","COL 2":"24751","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1021386685.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1026072683.jpg","COL 6":"Игровая приставка"},
+{"COL 1":"Игровая приставка Sega Retro Genesis HD","COL 2":"3624","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1024928305.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1024928306.jpg","COL 6":"Игровая приставка"},
+{"COL 1":"Игровая приставка Dendy Junior","COL 2":"1551","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1021877092.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1021877092.jpg","COL 6":"Игровая приставка"},
+{"COL 1":"Игровая приставка Sony PlayStation Classic","COL 2":"10445","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1025222877.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/102538227.jpg","COL 6":"Игровая приставка"},
+{"COL 1":"Клавиатура Logitech Wireless Keyboard K360","COL 2":"2390","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1015518726.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/102518725.jpg","COL 6":"Периферия для ПК"},
+{"COL 1":"Клавиатура Defender Element HB-195","COL 2":"566","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1028488609.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1028488611.jpg","COL 6":"Периферия для ПК"},
+{"COL 1":"Игровая клавиатура Steelseries Apex M750- RU","COL 2":"12848","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1027006299.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1027006301.jpg","COL 6":"Периферия для ПК"},
+{"COL 1":"Мышь + коврик A4Tech Bloody V7M+B-071","COL 2":"1649","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1026202934.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1026202933.jpg","COL 6":"Периферия для ПК"},
+{"COL 1":"Мышь Trust Varo","COL 2":"1097","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1025117257.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1025117012.jpg","COL 6":"Периферия для ПК"},
+{"COL 1":"Мышь Genius DX-120","COL 2":"350","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1014472326.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1014472325.jpg","COL 6":"Периферия для ПК"},
+{"COL 1":"Коврик для мыши Orico MPA9040","COL 2":"1279","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1026748248.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1026748250.jpg","COL 6":"Периферия для ПК"},
+{"COL 1":"Коврик для мыши Trust GXT 760 Glide RGB","COL 2":"4959","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1025053907.jpg","COL 5":"","COL 6":"Периферия для ПК"},
+{"COL 1":"Метро: Исход","COL 2":"1479","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1026951535.jpg","COL 5":"","COL 6":"Игры и софт"},
+{"COL 1":"Darksiders III. Коллекционное издание","COL 2":"3990","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1023840682.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1023849642.jpg","COL 6":"Игры и софт"},
+{"COL 1":"Mortal Kombat X","COL 2":"1076","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1011627377.jpg","COL 5":"","COL 6":"Игры и софт"},
+{"COL 1":"Microsoft Windows 10 Home (32\/64-bit)","COL 2":"9412","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1013975751.jpg","COL 5":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1013975799.jpg","COL 6":"Игры и софт"},
+{"COL 1":"1С:Предприятие 8.3. Версия для обучения программированию","COL 2":"560","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1015773076.jpg","COL 5":"","COL 6":"Игры и софт"},
+{"COL 1":"ABBYY FotoTranslate","COL 2":"805","COL 3":"False","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1001559725.jpg","COL 5":"","COL 6":"Игры и софт"},
+{"COL 1":"Destiny (Xbox 360)","COL 2":"723","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1021419099.jpg","COL 5":"","COL 6":"Игры и софт"},
+{"COL 1":"Игра Onrush (PS4 Sony)","COL 2":"1794","COL 3":"True","COL 4":"https:\/\/cdn1.ozone.ru\/multimedia\/c400\/1023547851.jpg","COL 5":"","COL 6":"Игры и софт"}
+]
+}
+]
